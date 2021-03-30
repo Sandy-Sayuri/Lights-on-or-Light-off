@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/Teste/TesteEstadoEquals.java</file>
-            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/entity/EspacoDeEstados.java</file>
+            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/DAO/InputInstance.java</file>
+            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/entity/Tabuleiro.java</file>
+            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/Teste/TesteEstadoGeraFilhos.java</file>
             <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/entity/Estado.java</file>
-            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/entity/Acao.java</file>
+            <file>file:/C:/Users/User%20Dell/Documents/NetBeansProjects/Lights-on-or-Light-off/src/entity/Global.java</file>
         </group>
     </open-files>
 </project-private>
