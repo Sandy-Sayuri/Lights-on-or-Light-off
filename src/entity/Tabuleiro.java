@@ -14,6 +14,7 @@ public class Tabuleiro {
 		this.luz = luzes;
 	}
 	public void TrocarLuz(Coordenada c){
+        //
         luz[c.i][c.j]+=1;
         luz[c.i][c.j]%=2;
         }

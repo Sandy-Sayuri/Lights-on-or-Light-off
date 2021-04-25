@@ -5,6 +5,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class Acoes{
+    
     public static Set<Coordenada> todas;
     public static void init(){
     todas=new TreeSet<>();
